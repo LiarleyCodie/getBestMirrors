@@ -11,3 +11,5 @@ To use it, you must have **NodeJS** installed in your distribution, then clone t
 > Your mirrors must be separated by line breaks.
 
 Then just run the script with `node main.js`
+
+> This script was only tested on Elementary OS that is based in Ubuntu
